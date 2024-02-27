@@ -15,3 +15,10 @@ rubles_count = dollars_count * rubles_per_dollar  # 3750.0
 # О таких превращениях будет отдельный урок.
 print('The price is ' + str(rubles_count) + ' rubles')
 # => The price is 3750.0 rubles
+
+apples_per_box = 60
+boxes_per_container = 50
+container = 4
+apples_count = apples_per_box * boxes_per_container * container
+ 
+print(apples_count)
