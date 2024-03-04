@@ -22,3 +22,9 @@ container = 4
 apples_count = apples_per_box * boxes_per_container * container
  
 print(apples_count)
+
+euros_count = 100
+dollars_count = euros_count * 1.25
+print(dollars_count)
+rubles_count = dollars_count * 60
+print(rubles_count)
