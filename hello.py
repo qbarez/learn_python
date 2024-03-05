@@ -45,3 +45,12 @@ two = 'Mormont'
 three = 'Sand'
 word = one[2] + two[1] + three[3] + two[4] + two [2]
 print(word)
+
+#11
+value = 'Hexlet'
+print(value[2:5])
+
+#12
+number = 2
+actions = 'times'
+print(str(number) + ' ' + actions)
